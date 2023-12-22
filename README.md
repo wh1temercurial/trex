@@ -1,2 +1,1 @@
-# trex
-Creado por Santiago 
+# Juegos-compatibles-con-dispositivos
